@@ -12,8 +12,11 @@ mac-vpn-autogateway-china
 节省vpn资源  节省加载时间
 
 使用方式
+
      git clone https://github.com/princehaku/mac-vpn-autogateway-china.git
-     cd mac-vpn-autogateway-china
+     
+     cd mac-vpn-autogateway-china```
+     
      sudo ./install.sh
 
 然后 enjoy it!
