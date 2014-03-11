@@ -15,7 +15,7 @@ mac-vpn-autogateway-china
 
      git clone https://github.com/princehaku/mac-vpn-autogateway-china.git
      
-     cd mac-vpn-autogateway-china```
+     cd mac-vpn-autogateway-china
      
      sudo ./install.sh
 
