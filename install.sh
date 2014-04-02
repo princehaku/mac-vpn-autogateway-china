@@ -6,5 +6,5 @@ if [[ ! $(id -u) -eq 0 ]] ; then
 	exit 0
 fi
 
-cp -r ./* /etc/ppp/
+cp -r ./ip* /etc/ppp/
 echo "   ALL DONE   "
