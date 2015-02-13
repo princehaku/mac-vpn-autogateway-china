@@ -21,3 +21,4 @@ mac-vpn-autogateway-china
 
 然后 enjoy it!
 
+mac同学一定记得勾上 选项里面的 通过VPN链接发送所有流量
